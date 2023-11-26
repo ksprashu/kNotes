@@ -1,6 +1,7 @@
 ---
 type: basic-note
 date: ${CURRENT_DATE}
+tags: ${1:}
 ---
 
 # ${1:$TM_FILENAME_BASE}

@@ -11,3 +11,4 @@ workspace, and a link generated in Markdown format.
 VSCode settings under `Markdown > Copy Files` and `Markdown > Editor > Drop` can
 be used to configure where the files get placed in your workspace, how they're
 named, how conflicts with existing files are handled, and more.
+
